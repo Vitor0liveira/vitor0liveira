@@ -18,7 +18,7 @@ My name is Vitor Oliveira and I’m currently learning and creating new projects
 ![git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white) 
 
 
-Get in touch with me through the attached links:  
+### Get in touch with me through the attached links:  
 
 <a href="https://www.linkedin.com/in/vitor0liveira/">
   <img alt="Vitor's LinkedIn" src="https://img.shields.io/badge/-LinkedIn-1A4730?style=flat-square&logo=Linkedin&logoColor=white" />
