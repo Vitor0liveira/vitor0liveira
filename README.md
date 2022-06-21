@@ -6,12 +6,11 @@ My name is Vitor Oliveira and I’m currently learning and creating new projects
 
 #### Languages and tools:
 ![java](https://img.shields.io/badge/Java-7CBEE4.svg?&style=for-the-badge&logo=java&logoColor=red)
-![javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
+![ruby](https://img.shields.io/badge/ruby-F7DF1E.svg?&style=for-the-badge&logo=ruby&logoColor=red)
 ![postgres](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
-![mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 ![oracle](https://img.shields.io/badge/oracle-7CBEE4.svg?&style=for-the-badge&logo=oracle&logoColor=red)
 ![html](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
-![css](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white) 
+![linux](https://img.shields.io/badge/linux-%232496ED.svg?&style=for-the-badge&logo=linux&logoColor=black)
 ![docker](https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=blue)
 ![git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white) 
 
