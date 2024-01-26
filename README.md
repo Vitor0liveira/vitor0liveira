@@ -1,5 +1,7 @@
-### Hi there 👋  
-My name is Vitor Oliveira and I’m currently learning and creating new projects to achieve proficiency in Spring Boot and Java, studying microservices, and researching how to apply perfectly.
+### Hi there! 👋  
+
+
+I'm Vitor Oliveira, a full-stack developer skilled in Ruby on Rails and React. I'm passionate about improving my Ruby on Rails skills and integrating it with React to create captivating user interfaces.  My passion for coding drives me to work hard and improve every day. 💻🌊✨
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vitor0liveira&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&count_private=true&theme=gotham)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitor0liveira&layout=compact&theme=gotham&custom_title=Statistics)  
